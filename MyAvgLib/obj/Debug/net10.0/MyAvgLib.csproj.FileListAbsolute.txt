@@ -1,0 +1,11 @@
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/bin/Debug/net10.0/MyAvgLib.deps.json
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/bin/Debug/net10.0/MyAvgLib.dll
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/bin/Debug/net10.0/MyAvgLib.pdb
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.AssemblyInfoInputs.cache
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.AssemblyInfo.cs
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.csproj.CoreCompileInputs.cache
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.dll
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/refint/MyAvgLib.dll
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/MyAvgLib.pdb
+/Users/maddie/Downloads/CPS3330/Chapter04/MyAvgLib/obj/Debug/net10.0/ref/MyAvgLib.dll
